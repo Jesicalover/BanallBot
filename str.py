@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/Jesicalover{})
+❍ Code Owner » [GitHub](https://github.com/{})
 
 Type `/help` For Commands!
 """
@@ -31,7 +31,7 @@ __This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/Jesicalover{})
+❍ Code Owner » [GitHub](https://github.com/{})
 """
 
 hlptxt = """ Meow [{}](tg://user?id={}),
